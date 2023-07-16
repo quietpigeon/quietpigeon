@@ -2,9 +2,11 @@
 
 ## About me
 
-- :school: I am a `Junior` at [Kyoto University](https://www.kyoto-u.ac.jp/en)
-- :construction_worker_woman: I major in civil engineering
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=pigeon&amp;color=EA4335&amp;style=flat-square)](mailto:homoreen@gmail.com)
+I am a `Junior` at [Kyoto University](https://www.kyoto-u.ac.jp/en) majoring in civil engineering.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:homoreen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreen-h-93b251214/)
+
 
 ## 🛠️ My Skills
 
@@ -50,7 +52,7 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/QuietPigeon2001/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuietPigeon2001&countColor=%23263759)
 
 </div>
 
@@ -63,4 +65,3 @@
 -----------
 
 Last Edited on: 16/7/2023
-  
