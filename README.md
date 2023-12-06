@@ -55,11 +55,5 @@ I am a `Junior` at [Kyoto University](https://www.kyoto-u.ac.jp/en) majoring in 
 </div>
 
 -----------
-  
-![QuietPigeon2001 github stats](https://github-readme-stats.vercel.app/api?username=QuietPigeon2001&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![QuietPigeon2001 github streak](https://github-readme-streak-stats.herokuapp.com/?user=QuietPigeon2001&theme=radical&include_all_commits=true&count_private=true)
-
------------
 
 Last Edited on: 6/12/2023
