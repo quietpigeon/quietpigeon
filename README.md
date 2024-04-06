@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a `Junior` at [Kyoto University](https://www.kyoto-u.ac.jp/en) majoring in civil engineering.
+I am a `Senior` at [Kyoto University](https://www.kyoto-u.ac.jp/en) majoring in civil engineering.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:homoreen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreen-h-93b251214/)
@@ -13,7 +13,8 @@ I am a `Junior` at [Kyoto University](https://www.kyoto-u.ac.jp/en) majoring in 
 ### Programming languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
