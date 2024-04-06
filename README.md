@@ -58,4 +58,4 @@ I am a `Senior` at [Kyoto University](https://www.kyoto-u.ac.jp/en) majoring in 
 
 -----------
 
-Last Edited on: 6/12/2023
+Last Edited on: 6/04/2024
