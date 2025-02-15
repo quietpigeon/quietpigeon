@@ -25,7 +25,3 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuietPigeon2001&countColor=%23263759)
 
 </div>
-
------------
-
-Last Edited on: 16/02/2025
